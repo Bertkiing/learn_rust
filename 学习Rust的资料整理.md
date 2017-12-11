@@ -9,3 +9,5 @@
 
 偶然间在知乎里看见我的Erlang,当然要推荐一下啦！
 [Erlang The Movie](http://v.youku.com/v_show/id_XNTcyNDUzNjQ4.html)
+
+[在线编译运行Rust的网站](https://play.rust-lang.org/)
