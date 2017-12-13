@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-fn main() {
-    let number = 32;// Rust 整型默认是i32    
-    println!("number = {}",number);
-=======
+
 fn main(){
     let number = 10;
     println!("number = {}",number);
@@ -30,6 +26,5 @@ fn main(){
     let name :char = '王';
     println!("我的姓氏 is {}!",name);
     
-    
->>>>>>> 20937c7137b3271982f2856a038304150c7f29ee
+ 
 }
